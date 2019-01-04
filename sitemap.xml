@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2019/01/04/Exception%20Processing%20ErrorPage%5BerrorCode=0,%20location=_error%5D%E9%94%99%E8%AF%AF%E5%8E%9F%E5%9B%A0/</loc>
+    
+    <lastmod>2019-01-04T02:50:25.793Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2019/01/03/hello-world/</loc>
     
     <lastmod>2019-01-03T02:57:13.402Z</lastmod>
