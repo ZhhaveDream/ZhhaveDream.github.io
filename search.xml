@@ -5,9 +5,4 @@
     <url>%2F2019%2F01%2F04%2FException%20Processing%20ErrorPage%5BerrorCode%3D0%2C%20location%3D_error%5D%E9%94%99%E8%AF%AF%E5%8E%9F%E5%9B%A0%2F</url>
     <content type="text"><![CDATA[Exception Processing ErrorPage[errorCode=0, location=/error]错误原因 由Exception Processing ErrorPage[errorCode=0, location=/error错误引起的IO 异常：你的主机中的软件终止了一个已建立的连接。 错误原因： 引入JS的路径出错该HTML中JS引入地址为：&lt;script src=&quot;./static/js/jqeury-3.3.1.min.js&quot;&gt;&lt;/script&gt;。而SpringBoot项目部署后静态资源文件默认从static开始，所以正确引入路径为：&lt;script src=&quot;/js/jqeury-3.3.1.min.js&quot;&gt;&lt;/script&gt; (注：第一次写博客，多有不足，请多指教，如果错误，指正改之。)]]></content>
   </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F01%2F03%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
-  </entry>
 </search>
